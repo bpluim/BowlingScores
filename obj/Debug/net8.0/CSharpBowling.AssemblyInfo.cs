@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpBowling")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a905251304664d41e109b7821b765934bd967eb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpBowling")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpBowling")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
